@@ -1,7 +1,6 @@
 # wordle-assist
- Assistant for the Wordle game.
+ I made this to practice multithreading and optimizing code in rust.
 
-To run:
  ```ps
  cargo run --release
  ```
